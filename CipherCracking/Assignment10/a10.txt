@@ -1,0 +1,31 @@
+Confusion matrix for SSD:
+ 7   0   0   0   0   0   0   0   2   0
+ 0   9   0   0   0   0   0   0   0   0
+ 1   0   5   0   0   0   2   0   0   1
+ 0   0   0   8   0   0   0   0   0   1
+ 0   1   1   0   7   0   0   0   0   0
+ 0   0   0   0   0   8   0   0   1   0
+ 0   0   0   0   0   0   9   0   0   0
+ 0   0   0   0   0   0   0   9   0   0
+ 0   0   1   0   0   0   0   0   8   0
+ 0   0   0   1   0   0   1   0   0   7
+
+Some languages have similar characters with high frequency, this leads to some confusion seen in the matrix, English is most likely to be confused (with Italian, Bulgarian or Spanish)
+
+----------------------------------------------
+
+Confusion matrix for DPD:
+ 9   0   0   0   0   0   0   0   0   0
+ 0   9   0   0   0   0   0   0   0   0
+ 0   1   8   0   0   0   0   0   0   0
+ 0   0   0   8   0   0   0   0   0   1
+ 0   0   0   0   9   0   0   0   0   0
+ 0   0   0   0   0   9   0   0   0   0
+ 0   0   0   0   0   0   9   0   0   0
+ 0   0   0   0   0   0   0   9   0   0
+ 0   0   0   0   0   0   0   1   8   0
+ 0   0   0   0   0   0   0   0   0   9
+
+Very accurate because most languages have a distinct word pattern they always follow. Few error occurs and it only occurs once
+
+ 

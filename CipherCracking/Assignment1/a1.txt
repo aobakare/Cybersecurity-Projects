@@ -1,0 +1,13 @@
+4a.
+    caesarCipher.py has 26 distinct key
+    a1p1.py has 52 distinct keys 
+    a1p2.py has 52 distinct keys
+    a1p3.py has sum from i to n of (52)^i keys, where n is the number of letters in the plaintext message 
+
+4b.
+    Yes it is stronger, the problem 2 cipher has 52 distinct keys while the caeserCipher.py has 26; this already makes it stronger.
+    Also each letter of the plaintext is encrypted using a different key in the problem 2 cipher; this also makes it stronger
+
+4c. 
+    The weakness is in the key, we are basically using the same ordered letters of the alphabet uppercased with their lowercases directly beside them (the reverse is also order too).
+    This could be easily guessed. We could change the order in which the letters are arranged i.e all letters in the odd/even position first or we can alternate them

@@ -1,0 +1,10 @@
+Name: Abdulrahman Bakare
+ccid: aobakare
+Date: 22/11/2023
+
+NOTE:
+- for a9p1.py
+    - import primeNum 
+    - import cryptomath
+- for a9p3.py
+    - import publicKeyCipher

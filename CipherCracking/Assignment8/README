@@ -1,0 +1,11 @@
+Name: Abdulrahman Bakare
+ccid: aobakare
+Date: 19/11/2023
+
+NOTE:
+    import a7p234 as a7
+    import itertools
+    import re
+    import vigenereCipher
+
+references: ceaserCipher.py, vignereCipher.py

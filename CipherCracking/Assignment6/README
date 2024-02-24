@@ -1,0 +1,13 @@
+Name: Abdulrahman Bakare
+ccid: aobakare
+Date: 20/10/2023
+
+NOTE:
+    - for a6p3.py 
+        - from copy import deepcopy
+        - from a6p2 import keyScore
+    - For a6p4.py
+        - import freqAnalysis 
+        - from a6p1 import ngramsFreqsFromFile
+        - from a6p3 import bestSuccessor
+        - ETAOIN = "ETAOINSHRDLCUMWFGYPBVKJXQZ"
