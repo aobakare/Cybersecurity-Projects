@@ -1,2 +1,2 @@
 # Cybersecurity-Projects
-I am a highly motivated and detailed-oriented aspiring cybersecurity analyst with relevant experience in IT. I am actively working towards learning to identify and analyze potential risks, threats and vulnerabilities to security to ensure the confidentiality, integrity and availability of assets to help safeguard organisations and people alike.
+I am a highly motivated and detailed-oriented aspiring cybersecurity analyst with 2+ years’ experience in Information Technology with a strong foundation in computing science, specializing in Security and Risk Management. Passionate about enhancing security practices and eager to contribute to innovative projects in cloud computing and Defence in depth.
